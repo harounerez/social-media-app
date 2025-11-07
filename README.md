@@ -1,16 +1,24 @@
-# mobile_dev_project
+# Polaris - Social Media App 📱
 
-A new Flutter project.
+A cross-platform social media application built with Flutter and Firebase.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* 👤 **User Authentication:** Secure login and registration using Firebase Auth.
+* 📸 **Create & Share Posts:** Users can create posts with text and images.
+* ❤️ **Engage:** Like and comment on posts from other users.
+* 👥 **User Profiles:** View user profiles with their posts.
+* 🔔 **Notifications:** (Optional: Add if you have this) Real-time notifications for likes and comments.
+* 💬 **Chat:** (Optional: Add if you have this) 1-to-1 or group messaging.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Language:** [Dart](https://dart.dev/)
+* **Backend:** [Firebase](https://firebase.google.com/)
+    * Firebase Authentication
+    * Cloud Firestore (for database)
+    * Firebase Storage (for images)
+
+
