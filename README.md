@@ -9,9 +9,8 @@ A cross-platform social media application built with Flutter and Firebase.
 * 📸 **Create & Share Posts:** Users can create posts with text and images.
 * ❤️ **Engage:** Like and comment on posts from other users.
 * 👥 **User Profiles:** View user profiles with their posts.
-* 🔔 **Notifications:** (Optional: Add if you have this) Real-time notifications for likes and comments.
-* 💬 **Chat:** (Optional: Add if you have this) 1-to-1 or group messaging.
-
+* 🔔 **Notifications:** Real-time notifications for likes and comments.
+  
 ## 🛠️ Technologies Used
 
 * **Framework:** [Flutter](https://flutter.dev/)
